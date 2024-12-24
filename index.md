@@ -50,5 +50,11 @@ We will notify you of any changes via:
 - App notification
 - Website update
 
-## 8. Contact Us
+## 8. Data Deletion
+Users can delete their account and all associated data by:
+1. Going to Profile
+2. Selecting "Delete Account"
+3. Confirming deletion
+
+## 9. Contact Us
 Email: enowdev@gmail.com
